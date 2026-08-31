@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Fabian! 🚀
+# ¡Hola, soy Fabian! 
 
 Desarrollador Web con **más de 3 años de experiencia** creando soluciones digitales funcionales, atractivas y centradas en el usuario. Apasionado por la arquitectura web, la gestión eficiente de bases de datos y la transformación de requerimientos complejos en aplicaciones escalables.
 
