@@ -33,18 +33,8 @@ Desarrollador Web con **más de 3 años de experiencia** creando soluciones digi
 * **Tecnologías:** Oracle Developer, SQL, PL/SQL, Web Development.
 * **Destacados:** Cobertura e implementación de un extenso conjunto de **historias de usuario**, modelado relacional complejo, procedimientos almacenados y control de roles/accesos.
 
----
-
-###  Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
-</p>
-
----
 
 ###  Contacto
 
--  **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com)
--  **Email:** tuemail@ejemplo.com
--  **Portafolio:** [tuportafolio.com](https://tuportafolio.com)
+-  **LinkedIn:** [www.linkedin.com/in/fabian-silva-67818724a]
+-  **Email:** fasilva.23@est.ucab.edu.ve
